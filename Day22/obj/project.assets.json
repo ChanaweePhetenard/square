@@ -8,20 +8,28 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Asus\\.nuget\\packages\\": {}
+    "C:\\Users\\GRX\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\portfolio-Akkarawat\\square\\Day22\\Day22.vbproj",
+      "projectUniqueName": "C:\\Users\\GRX\\Desktop\\ป.ตรี\\square\\Day22\\Day22.vbproj",
       "projectName": "Day22",
-      "projectPath": "D:\\portfolio-Akkarawat\\square\\Day22\\Day22.vbproj",
-      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "D:\\portfolio-Akkarawat\\square\\Day22\\obj\\",
+      "projectPath": "C:\\Users\\GRX\\Desktop\\ป.ตรี\\square\\Day22\\Day22.vbproj",
+      "packagesPath": "C:\\Users\\GRX\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\GRX\\Desktop\\ป.ตรี\\square\\Day22\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\GRX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0-windows7.0"
