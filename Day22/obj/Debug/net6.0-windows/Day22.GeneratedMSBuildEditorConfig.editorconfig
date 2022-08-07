@@ -13,4 +13,8 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Day22
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\GRX\Desktop\ป.ตรี\square\Day22\
+=======
+build_property.ProjectDir = C:\Users\Asus\Documents\GitHub\New folder\square\Day22\
+>>>>>>> e7d339262081f1830cb07c24a8fa28533aae3341
