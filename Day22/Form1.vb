@@ -1,5 +1,8 @@
 ﻿Public Class Form1
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        If String.IsNullOrEmpty(TextBox1.Text) Or String.IsNullOrEmpty(TextBox2.Text) Then
+            MessageBox.Show("กรุณากรอกตัวเลข")
+        End If
         TextBox3.Text = Val(TextBox1.Text) * Val(TextBox2.Text)
     End Sub
 
