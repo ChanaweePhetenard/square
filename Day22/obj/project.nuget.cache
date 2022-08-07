@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "njCYzttMsLfR7dw+ih3G0Tatnn0c5hefBGPlJF3uYVaabkr1MIriBe50mvyrN1xt3+rKKQkbFNbov0eLgW58mw==",
   "success": true,
   "projectFilePath": "C:\\Users\\GRX\\Desktop\\ป.ตรี\\square\\Day22\\Day22.vbproj",
-=======
-  "dgSpecHash": "f6ZzHa+qpm6jXsEGim1m/7AeJphiuByj0lQYC5ucywgCRZvM/oA4v2pgoqrvaz+NpzCW1bTF3/uBofqk7r1rWQ==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Asus\\Documents\\GitHub\\New folder\\square\\Day22\\Day22.vbproj",
->>>>>>> e7d339262081f1830cb07c24a8fa28533aae3341
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\GRX\\Desktop\\ป.ตรี\\square\\Day22\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
