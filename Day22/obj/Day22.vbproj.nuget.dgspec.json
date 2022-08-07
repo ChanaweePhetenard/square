@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\portfolio-Akkarawat\\square\\Day22\\Day22.vbproj": {}
+    "C:\\Users\\Asus\\Documents\\GitHub\\New folder\\square\\Day22\\Day22.vbproj": {}
   },
   "projects": {
-    "D:\\portfolio-Akkarawat\\square\\Day22\\Day22.vbproj": {
+    "C:\\Users\\Asus\\Documents\\GitHub\\New folder\\square\\Day22\\Day22.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\portfolio-Akkarawat\\square\\Day22\\Day22.vbproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Documents\\GitHub\\New folder\\square\\Day22\\Day22.vbproj",
         "projectName": "Day22",
-        "projectPath": "D:\\portfolio-Akkarawat\\square\\Day22\\Day22.vbproj",
+        "projectPath": "C:\\Users\\Asus\\Documents\\GitHub\\New folder\\square\\Day22\\Day22.vbproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\portfolio-Akkarawat\\square\\Day22\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\Documents\\GitHub\\New folder\\square\\Day22\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
