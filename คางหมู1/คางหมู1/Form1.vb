@@ -21,7 +21,14 @@
     End Sub
 
     Private Sub btExit_Click(sender As Object, e As EventArgs) Handles btExit.Click
-        bt_Exit = MsgBoxResult.No
-        Me.Close()
+        Dim bt_Exit As MsgBoxResult
+        bt_Exit = MsgBox("จบการทำงานใช่หรือไม่ ?", MsgBoxStyle.YesNo, "จบการทำงาน")
+        If bt_Exit = MsgBoxResult.Yes Then
+            MsgBox("เลิกการทำงาน.....", MsgBoxStyle.Exclamation, "จบการทำงาน")
+            Application.Exit() '       แจ้งเตือนการจบการทำงาน กาว
+        Else
+            bt_Exit = MsgBoxResult.No
+            Me.Close()
+        End If
     End Sub
 End Class
