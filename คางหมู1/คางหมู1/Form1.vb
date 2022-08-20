@@ -20,6 +20,7 @@
     End Sub
 
     Private Sub btExit_Click(sender As Object, e As EventArgs) Handles btExit.Click
+        bt_Exit = MsgBoxResult.No
         Me.Close()
     End Sub
 End Class
