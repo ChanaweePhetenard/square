@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\source_code\\New folder (2)\\square\\คางหมู1\\คางหมู1\\คางหมู1.vbproj": {}
+    "C:\\Users\\Aum\\Documents\\GitHub\\square\\คางหมู1\\คางหมู1\\คางหมู1.vbproj": {}
   },
   "projects": {
-    "D:\\source_code\\New folder (2)\\square\\คางหมู1\\คางหมู1\\คางหมู1.vbproj": {
+    "C:\\Users\\Aum\\Documents\\GitHub\\square\\คางหมู1\\คางหมู1\\คางหมู1.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source_code\\New folder (2)\\square\\คางหมู1\\คางหมู1\\คางหมู1.vbproj",
+        "projectUniqueName": "C:\\Users\\Aum\\Documents\\GitHub\\square\\คางหมู1\\คางหมู1\\คางหมู1.vbproj",
         "projectName": "คางหมู1",
-        "projectPath": "D:\\source_code\\New folder (2)\\square\\คางหมู1\\คางหมู1\\คางหมู1.vbproj",
-        "packagesPath": "C:\\Users\\JP\\.nuget\\packages\\",
-        "outputPath": "D:\\source_code\\New folder (2)\\square\\คางหมู1\\คางหมู1\\obj\\",
+        "projectPath": "C:\\Users\\Aum\\Documents\\GitHub\\square\\คางหมู1\\คางหมู1\\คางหมู1.vbproj",
+        "packagesPath": "C:\\Users\\Aum\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aum\\Documents\\GitHub\\square\\คางหมู1\\คางหมู1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\JP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Aum\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-windows7.0"
+          "net6.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -57,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
