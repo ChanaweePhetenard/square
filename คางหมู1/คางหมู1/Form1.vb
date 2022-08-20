@@ -8,6 +8,7 @@
             a2 = txt_a2.Text '
             high = txt_high.Text ' 
             area = 0.5 * (a1 + a2) * high
+            Label7.Text = area
         End If
     End Sub
 
