@@ -1,8 +1,12 @@
 ﻿Public Class Form1
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-        Dim a1, a2, high, area As Single '
-        a1 = txt_a1.Text '
-        a2 = txt_a2.Text '
+        If String.IsNullOrEmpty(txt_a1.Text) Or String.IsNullOrEmpty(txt_a2.Text) Or String.IsNullOrEmpty(txt_high.Text) Then
+            MessageBox.Show("กรุณากรอกตัวเลข") ' 
+        Else
+            Dim a1, a2, high, area As Single '
+            a1 = txt_a1.Text '
+            a2 = txt_a2.Text '
+        End If
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
