@@ -17,7 +17,7 @@
         txt_a2.Text = ""
         txt_high.Text = ""  '
         txt_a1.Focus()
-
+        Label7.Text = "0.00"
     End Sub
 
     Private Sub btExit_Click(sender As Object, e As EventArgs) Handles btExit.Click
