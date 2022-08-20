@@ -6,6 +6,7 @@
             Dim a1, a2, high, area As Single '
             a1 = txt_a1.Text '
             a2 = txt_a2.Text '
+            high = txt_high.Text
         End If
     End Sub
 

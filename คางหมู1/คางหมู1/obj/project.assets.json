@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Asus\\.nuget\\packages\\": {}
+    "C:\\Users\\PRWz\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\Documents\\GitHub\\square\\คางหมู1\\คางหมู1\\คางหมู1.vbproj",
+      "projectUniqueName": "D:\\ProjGit\\square\\คางหมู1\\คางหมู1\\คางหมู1.vbproj",
       "projectName": "คางหมู1",
-      "projectPath": "C:\\Users\\Asus\\Documents\\GitHub\\square\\คางหมู1\\คางหมู1\\คางหมู1.vbproj",
-      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\Documents\\GitHub\\square\\คางหมู1\\คางหมู1\\obj\\",
+      "projectPath": "D:\\ProjGit\\square\\คางหมู1\\คางหมู1\\คางหมู1.vbproj",
+      "packagesPath": "C:\\Users\\PRWz\\.nuget\\packages\\",
+      "outputPath": "D:\\ProjGit\\square\\คางหมู1\\คางหมู1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PRWz\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
