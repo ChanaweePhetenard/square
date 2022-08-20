@@ -14,7 +14,7 @@
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
         txt_a1.Text = "" '
-
+        txt_a2.Text = ""
         txt_high.Text = ""  '
 
     End Sub

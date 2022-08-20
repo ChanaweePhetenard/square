@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ป.ตรี\\VB ม่วง\\square\\คางหมู1\\คางหมู1\\คางหมู1.vbproj": {}
+    "D:\\source_code\\New folder (2)\\square\\คางหมู1\\คางหมู1\\คางหมู1.vbproj": {}
   },
   "projects": {
-    "D:\\ป.ตรี\\VB ม่วง\\square\\คางหมู1\\คางหมู1\\คางหมู1.vbproj": {
+    "D:\\source_code\\New folder (2)\\square\\คางหมู1\\คางหมู1\\คางหมู1.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ป.ตรี\\VB ม่วง\\square\\คางหมู1\\คางหมู1\\คางหมู1.vbproj",
+        "projectUniqueName": "D:\\source_code\\New folder (2)\\square\\คางหมู1\\คางหมู1\\คางหมู1.vbproj",
         "projectName": "คางหมู1",
-        "projectPath": "D:\\ป.ตรี\\VB ม่วง\\square\\คางหมู1\\คางหมู1\\คางหมู1.vbproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\ป.ตรี\\VB ม่วง\\square\\คางหมู1\\คางหมู1\\obj\\",
+        "projectPath": "D:\\source_code\\New folder (2)\\square\\คางหมู1\\คางหมู1\\คางหมู1.vbproj",
+        "packagesPath": "C:\\Users\\JP\\.nuget\\packages\\",
+        "outputPath": "D:\\source_code\\New folder (2)\\square\\คางหมู1\\คางหมู1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\JP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
