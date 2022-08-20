@@ -16,6 +16,7 @@
         txt_a1.Text = "" '
         txt_a2.Text = ""
         txt_high.Text = ""  '
+        txt_a1.Focus()
 
     End Sub
 
