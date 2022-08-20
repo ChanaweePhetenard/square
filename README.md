@@ -12,3 +12,6 @@
 - นายมังกร ปานฟัก (MangkornP) ใส่เลข textbox
 - นายชนาธิป พลเสน (chichoin) หาค่าสี่เหลี่ยมคางหมู
 - นายธนกร ดอนพรม (iigluayy) reset label เป็น 0.0
+
+# Trello
+https://trello.com/invite/b/7wi2bAN2/9f34295742c2a7961b1d4495824e0481/หาพื้นที่สี่เหลี่ยมคางหมู
